@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.pyc
+*.txt
+/PIPENV_VENV_IN_PROJECT
+/testdata/
